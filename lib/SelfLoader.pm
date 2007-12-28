@@ -1,7 +1,7 @@
 package SelfLoader;
 use 5.008;
 use strict;
-our $VERSION = "1.13_02";
+our $VERSION = "1.13_03";
 
 # The following bit of eval-magic is necessary to make this work on
 # perls < 5.009005.
@@ -364,7 +364,7 @@ parsed.
 
 =head1 AUTHOR
 
-C<AutoLoader> is maintained by the perl5-porters. Please direct
+C<SelfLoader> is maintained by the perl5-porters. Please direct
 any questions to the canonical mailing list. Anything that
 is applicable to the CPAN release can be sent to its maintainer,
 though.

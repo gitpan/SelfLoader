@@ -168,7 +168,7 @@ Multiple packages and fully qualified subroutine names
     "AUTOLOAD" method when the data after "__DATA__" is first parsed.
 
 AUTHOR
-    "AutoLoader" is maintained by the perl5-porters. Please direct any
+    "SelfLoader" is maintained by the perl5-porters. Please direct any
     questions to the canonical mailing list. Anything that is applicable to
     the CPAN release can be sent to its maintainer, though.
 
