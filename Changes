@@ -1,5 +1,8 @@
 Revision history for Perl extension SelfLoader
 
+1.14     Wed Jan 16 16:26 2008
+  - No failures reported, promote to stable version.
+
 1.13_03  Fri Dec 28 11:28 2007
   - Doc patch. This is SelfLoader, not AutoLoader.
 

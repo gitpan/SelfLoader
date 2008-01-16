@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                SelfLoader
-version:             1.13_03
+version:             1.14
 abstract:            load functions only on demand
 license:             perl
 author:              
