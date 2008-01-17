@@ -1,5 +1,8 @@
 Revision history for Perl extension SelfLoader
 
+1.15     Thu Jan 17 17:43 2008
+  - Fix non-critical warning in the test suite. (Jerry D. Hedden)
+
 1.14     Wed Jan 16 16:26 2008
   - No failures reported, promote to stable version.
 
